@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Dec 26 03:24:44 2025
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Flasher
+Top-level Entity Name : Flasher
+Family : Cyclone II
+Device : EP2C8Q208C8
+Timing Models : Final
+Total logic elements : 1,730 / 8,256 ( 21 % )
+    Total combinational functions : 1,635 / 8,256 ( 20 % )
+    Dedicated logic registers : 890 / 8,256 ( 11 % )
+Total registers : 890
+Total pins : 2 / 138 ( 1 % )
+Total virtual pins : 0
+Total memory bits : 107,264 / 165,888 ( 65 % )
+Embedded Multiplier 9-bit elements : 0 / 36 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

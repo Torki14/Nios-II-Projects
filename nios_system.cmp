@@ -1,0 +1,7 @@
+	component nios_system is
+		port (
+			clk_clk      : in  std_logic := 'X'; -- clk
+			pio_0_export : out std_logic         -- export
+		);
+	end component nios_system;
+
