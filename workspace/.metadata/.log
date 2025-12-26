@@ -1,0 +1,19 @@
+!SESSION 2025-12-26 03:06:56.374 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-26 03:08:28.725
+!MESSAGE Indexed 'Hello_Nios_app_bsp' (77 sources, 55 headers) in 0.63 sec: 919 declarations; 2,181 references; 113 unresolved inclusions; 5 syntax errors; 193 unresolved names (5.86%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-26 03:08:31.468
+!MESSAGE Indexed 'Hello_Nios_app' (1 sources, 13 headers) in 0.02 sec: 1 declarations; 1 references; 14 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2025-12-26 03:10:55.546
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2025-12-26 03:10:59.562
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/d/Mohamed/Education/College/term_7/DrHossam/Hello_Nios/software/Hello_Nios_app/Hello_Nios_app.elf]
